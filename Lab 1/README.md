@@ -25,7 +25,7 @@ while combining duplicate fruits, and alphabetical order without combining dupli
 
 ### Example
 **Command:** Fruit2 -sortone list1.txt
-'''
+```
 apples_gala.........  6.25 x 1.21 =    7.56  :     7.56
 apples_jazz.........  4.39 x 2.69 =   11.81  :    19.37
 bananas.............  2.88 x 0.49 =    1.41  :    20.78
@@ -35,4 +35,4 @@ melon_cantaloupe....  2.60 x 2.99 =    7.77  :    43.07
 oranges_honeybell...  8.42 x 1.08 =    9.09  :    52.16
 oranges_naval.......  2.63 x 0.99 =    2.60  :    54.76
 raspberries.........  4.76 x 3.25 =   15.47  :    70.23
-'''
+```
