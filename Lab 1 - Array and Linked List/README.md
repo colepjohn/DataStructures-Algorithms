@@ -12,7 +12,7 @@ aside, the real task, of course, is to get you back in the programming saddle be
 and algorithms. Those of you not used to "word problems" will also gain some experience deciphering what lab assignments 
 ask you to do.
 
-## Purpose
+## Implementation
 While both Fruit1 and Fruit2 accomplish the same thing and produce the same output, they do so using different data structures.
 These programs read in data from a file that holds details of the name of a fruit, the cost of a single fruit, and the quantity
 purchased. It then forms either an array list or linked list and stores all of the information included the calculated total cost.
